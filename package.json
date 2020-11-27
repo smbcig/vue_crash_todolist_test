@@ -8,12 +8,12 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "axios": "^0.21.0",
-    "core-js": "^3.6.5",
-    "eslint-loader": "file:node_modules/eslint-loader",
-    "eslint-webpack-plugin": "^2.4.0",
-    "uuid": "^8.3.1",
-    "vue": "^2.6.11"
+    "axios": "0.21.0",
+    "core-js": "3.8.0",
+    "eslint-loader": "4.0.2",
+    "eslint-webpack-plugin": "2.4.0",
+    "uuid": "8.3.1",
+    "vue": "2.6.12"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
